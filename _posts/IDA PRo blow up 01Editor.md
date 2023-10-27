@@ -1,5 +1,5 @@
-#IDA PRo blow up 01Editor
-##爆破准备-为IDA加载keypatch.py补丁
+#IDA PRo blow up 01Editor 
+##爆破准备-为IDA加载keypatch.py补丁 
 1.打开控制台
   `>pip install keystone-engine #安装
   >pip install keystone-engine --upfrade #升级`
